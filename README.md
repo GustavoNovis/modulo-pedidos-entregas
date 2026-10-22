@@ -1,5 +1,3 @@
-cat > README.md << 'EOF'
-
 \# Módulo de Pedidos e Entregas
 
 
@@ -10,5 +8,5 @@ Repositório criado para a atividade de Engenharia de Software. Reúne a documen
 
 Autor: GUSTAVO NOVIS MOREIRA
 
-EOF
+
 
